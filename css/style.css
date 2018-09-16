@@ -1,0 +1,23 @@
+body{
+                background: url(https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat center center fixed;
+                background-size: cover;
+                font-family: 'Lobster', cursive;
+            }
+            table{
+                font-size: 23.5px;
+            }
+            .color{
+                color: black;
+                background: #e60000;
+                padding: 10px 100px ;
+                border-radius: 20px;
+                font-size: 30px;
+                font-family: 'Lobster', cursive;
+            }
+            table{
+                color: black;
+                margin: 100px auto;
+                width: 90% ;
+                border-radius: 25px;
+                background-color: #F86901;
+                opacity: 0.6;
